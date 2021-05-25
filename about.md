@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
+### About Me
 
 Hi everyone. My name is Lucy Yin, currently I'm taking my 6th class in the online Statistics master's program at NC State. 
 
