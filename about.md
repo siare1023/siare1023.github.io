@@ -8,8 +8,13 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Hi everyone. My name is Lucy Yin, currently I'm taking my 6th class in the online Statistics master's program at NC State. 
+
+Right now I don't really have time for any hobbies, but eventually one day I'd love to do some leisure reading and watch my dog be silly. 
+
+I have one fur baby, she's turning 9 in 7 days.
+knitr::include_graphics("/Volumes/GoogleDrive/My Drive/ST Classes/ST558/Homework/Hmk 2/lena.png")
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[xyin2@ncsu.edu](mailto:xyin2@ncsu.edu)
